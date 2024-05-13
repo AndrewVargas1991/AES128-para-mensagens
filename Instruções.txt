@@ -1,0 +1,8 @@
+Instruções de uso do programa de criptografia simétrica AES128
+
+1- Abra o programa AES128.py com o interpretador do Python;
+OBS: Caso você não tenha o IDLE (interpretador do Python), baixe-o no site https://www.python.org
+
+2- Digite o que você deseja cifrar (tornar ilegível);
+
+CONSIDERAÇÕES: Esse é uma implementação de criptografia simétrica para textos, caso você deseje utilizar o códigoo-fonte para uma comunicação real entre dois usuários do algoritmo, é necessário salvar a senha e o texto encriptado.
