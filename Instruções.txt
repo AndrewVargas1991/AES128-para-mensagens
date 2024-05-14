@@ -5,4 +5,6 @@ OBS: Caso você não tenha o IDLE (interpretador do Python), baixe-o no site htt
 
 2- Digite o que você deseja cifrar (tornar ilegível);
 
-CONSIDERAÇÕES: Esse é uma implementação de criptografia simétrica para textos, caso você deseje utilizar o códigoo-fonte para uma comunicação real entre dois usuários do algoritmo, é necessário salvar a senha e o texto encriptado.
+CONSIDERAÇÕES: Esse é uma implementação de criptografia simétrica para textos, caso você deseje
+utilizar o códigoo-fonte para uma comunicação real entre dois usuários do algoritmo, é necessário
+salvar a senha e o texto encriptado.
